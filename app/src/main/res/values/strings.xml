@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyFinances</string>
+    <string name="returns_main_page">Returns main page</string>
+    <string name="add_financial_expenditure">Add financial expenditure</string>
+    <string name="add_financial_income">Add financial income</string>
+</resources>
